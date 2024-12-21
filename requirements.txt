@@ -1,2 +1,8 @@
 streamlit
-openai
+pandas
+numpy
+Pillow
+tensorflow
+scikit-learn
+opencv-python
+keras
